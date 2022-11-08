@@ -1,1 +1,1 @@
-cmd /k "cd /d .\venv\Scripts & activate & cd /d ..\..\src &  uvicorn main:app --reload"
+cmd /k "cd /d .\venv\Scripts & activate & cd /d ..\..\src &  uvicorn config.main:app --reload"

@@ -10,6 +10,10 @@ This is example template which can be used for local development.
         pip install -r requirements.txt
         run.bat
 
-## References
-https://www.aritro.in/post/local-development-environment-with-fast-api-sqlmodel-sqlite-alembic-sync-async-version/
+
+
+#
+
+##### References
+- https://www.aritro.in/post/local-development-environment-with-fast-api-sqlmodel-sqlite-alembic-sync-async-version/
 

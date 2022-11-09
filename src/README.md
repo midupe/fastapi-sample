@@ -1,5 +1,3 @@
-https://www.aritro.in/post/local-development-environment-with-fast-api-sqlmodel-sqlite-alembic-sync-async-version/
-
 
 # Creating a minimal Fast API app for local development: FastAPI + SQLModel + SQLite + Alembic [Sync version]
 
